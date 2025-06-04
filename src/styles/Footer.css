@@ -1,0 +1,31 @@
+.lmj-footer {
+	color: #fff;
+	padding: 32px;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+	align-items: center;
+	font-weight: bold;
+	background-color: #31b572;
+}
+
+.lmj-footer-elem {
+	margin-bottom: 10px;
+	font-weight: 500;
+	font-size: 16px;
+}
+
+input {
+	padding: 10px;
+	border-radius: 15px;
+	border: none;
+	outline: #31b572;
+}
+
+button{
+	padding: 10px 15px;
+	margin-top: 15px;
+	border-radius: 15px;
+	border: none;
+	background-color:#fff;
+}
